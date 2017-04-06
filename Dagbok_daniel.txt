@@ -1,0 +1,3 @@
+6.4.17
+	- Settum upp skipulag til að byrja með.
+	- Byrjuðum að setja upp logical topology.
