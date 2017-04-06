@@ -1,3 +1,7 @@
-Dagbók:
+﻿Dagbók:
 Setti upp git fyrir verkefnið
-byrjaður að setja upp verkefni :)
+Verkefnið sett upp gróflega
+rökrætt um switcha
+Net pælingar.
+
+
