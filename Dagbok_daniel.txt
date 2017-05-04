@@ -1,3 +1,8 @@
 6.4.17
 	- Settum upp skipulag til að byrja með.
 	- Byrjuðum að setja upp logical topology.
+
+4.5.17 
+	- Kláruðum logical topology
+	- tengdum router-a og switch-a saman
+	- ákváðum ip tölur til að nota og settum upp interface á router
