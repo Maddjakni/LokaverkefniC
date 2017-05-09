@@ -6,3 +6,8 @@
 	- Kláruðum logical topology
 	- tengdum router-a og switch-a saman
 	- ákváðum ip tölur til að nota og settum upp interface á router
+	
+9.5.17
+	- Setti upp "documentation sheet" fyrir router-a og switch-a
+	- Búið til vlan og sett á router-a, switchport stillt
+	- 
