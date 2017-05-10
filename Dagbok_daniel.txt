@@ -12,3 +12,9 @@
 	- Búið til vlan og sett á router-a, switchport stillt að bestu getu
 	- Reynt að setja upp DHCP, virkar ekki
 	- OSPF routing sett upp að einhverju leyti
+	
+10.5.17
+	- Switchport stillingar klárað
+	- DHCP stillingar kláraðar
+	- OSPF routing stillingar kláraðar
+	- Prófað switchport, dhcp og ospf. Allt virkar.
