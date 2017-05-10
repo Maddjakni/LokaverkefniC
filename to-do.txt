@@ -4,7 +4,7 @@ To-do
 	[x] Assign ip addresses, vlan and switchport operation
 	[ ] Security á switchport (vlan)
 	[X] DHCP, CDP
-	[ ] OSPF routing og static routing
+	[X] OSPF routing og static routing
 	[ ] Öryggisreglur: port security, lykilorð, encryption, ssh, access listar o.fl.
 	[ ] Verktaki tengist inn á management vlan en enginn annar
 	[ ] Aðgengi að http þjóni frá WAN
