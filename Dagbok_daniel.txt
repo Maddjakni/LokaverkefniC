@@ -18,3 +18,9 @@
 	- DHCP stillingar kláraðar
 	- OSPF routing stillingar kláraðar
 	- Prófað switchport, dhcp og ospf. Allt virkar.
+
+11.5.17
+	- Lokaði ónotuðum portum
+	- Stillti öll "opin port" sem acces port á því vlan-i sem það tilheyrir
+	- Restrict trunk ports to allowed vlans
+	- Enabling secret exec password "cisco" on routers
